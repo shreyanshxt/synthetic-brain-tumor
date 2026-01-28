@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Medical Imaging](https://img.shields.io/badge/Domain-Medical%20Imaging-red)
 ![Status](https://img.shields.io/badge/Status-Research-green)
-![Notebook]([https://img.shields.io/badge/Format-Jupyter-orange](https://colab.research.google.com/drive/1wRtTsK_GxLGo8MXoc7keIgT_eXmtrpta?usp=sharing))
+![Notebook](https://img.shields.io/badge/Format-Jupyter-orange)
 
 > **A medical imaging pipeline for generating realistic synthetic brain tumors in MRI volumes**  
 > Designed for **data augmentation, model robustness, and medical AI research**.
