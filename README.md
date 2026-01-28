@@ -42,8 +42,8 @@ git clone https://github.com/your-username/synthetic-tumor-generation.git
 cd synthetic-tumor-generation
 
 jupyter notebook synthetic_tumor.ipynb
-![Tumor Inserted](equity_drawdown_curves.png)
-![Tumor Inserted Section 2](equity_drawdown_curves.png)
+![Tumor Inserted](axial_slice.png)
+![Tumor Inserted Section 2](sagittal_slice.png)
 ## 🧱 Pipeline Architecture
 
 ```text
